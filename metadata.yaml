@@ -1,4 +1,8 @@
 _repo: The-Bull-Calf-and-Other-Tales_47735
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47735-h/images/i_back_cover.jpg
 creator:
   author:
     agent_name: Frost, A. B. (Arthur Burdett)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24799
     wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47735#The-Bull-Calf-and-Other-Tales
 gutenberg_issued: '2014-12-22'
 gutenberg_type: Text
 identifiers:
